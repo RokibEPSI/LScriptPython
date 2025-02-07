@@ -1,2 +1,2 @@
 # LScriptPython
-Ce projet explose les différents   manière d'un Script
+Ce projet expose les différents   manière d'un Script
